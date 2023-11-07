@@ -10,6 +10,7 @@ namespace Order_Management
     {
         static void Main(string[] args)
         {
+            Console.WriteLine('OUR PROJECT')
         }
     }
 }
