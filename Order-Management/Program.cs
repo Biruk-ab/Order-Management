@@ -10,7 +10,11 @@ namespace Order_Management
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("dumbass");
+=======
+            Console.WriteLine('OUR PROJECT');
+>>>>>>> 506057ad2933486053a9c364a826d213159ac47c
         }
     }
 }
